@@ -13,8 +13,3 @@ function draw() {
   arc(mouseX, mouseY + 10, 30, 20, 0, PI);
 
 }
-
-function mousePressed() {
-  clear();
-
-}
